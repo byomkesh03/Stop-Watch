@@ -39,6 +39,7 @@ To use the stopwatch, simply open the `index.html` file in a web browser and int
 
 ## Demo
 
+You can see the live demo of the Stop Watch [here](https://byomkesh03.github.io/Stop-Watch/).
 
 
 ## Installation
