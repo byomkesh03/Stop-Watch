@@ -57,7 +57,7 @@ You can see the live demo of the Stop Watch [here](https://byomkesh03.github.io/
 
 ## Customization
 
-You can customize the analog clock by modifying the CSS styles in the `style.css` file. Feel free to adjust colors, sizes, and other properties to match your desired design.
+You can customize the Stop Watch by modifying the CSS styles in the `style.css` file. Feel free to adjust colors, sizes, and other properties to match your desired design.
 
 ## Contributing
 
