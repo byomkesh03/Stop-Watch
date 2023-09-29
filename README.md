@@ -10,8 +10,9 @@ This project implements a simple stopwatch using HTML, CSS, and JavaScript.
 - [Usage](#usage)
 - [Demo](#demo)
 - [Installation](#installation)
+- [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ## Overview
 
@@ -47,4 +48,27 @@ You can see the live demo of the Stop Watch [here](https://byomkesh03.github.io/
 1. Clone the repository:
    ```bash
    git clone https://github.com/byomkesh03/Stop-Watch.git
+
+2. Navigate to the project directory:
+   ```bash
+    cd stopwatch-project
+   
+3. Open `index.html` in your preferred web browser to use the stopwatch.
+
+## Customization
+
+You can customize the analog clock by modifying the CSS styles in the `style.css` file. Feel free to adjust colors, sizes, and other properties to match your desired design.
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to contact me at byomkeshmahato03@gmail.com.
+
+
+  
+
+
 
